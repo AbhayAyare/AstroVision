@@ -10,7 +10,7 @@ AstroVision is a real-time AI-powered constellation recognition app built for de
 
 > 🖼️ Interface with webcam + upload functionality:
 
-![AstroVision Screenshot](screenshots/app_ui.png) <!-- Save your screenshot as screenshots/app_ui.png -->
+![AstroVision Screenshot](screenshots/app_ui.png.png) <!-- Save your screenshot as screenshots/app_ui.png -->
 
 ---
 
