@@ -1,0 +1,4 @@
+# Ignore virtual environments
+astrovision310-env/
+*.pyc
+__pycache__/
