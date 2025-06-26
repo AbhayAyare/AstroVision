@@ -1,0 +1,15 @@
+{
+    "questions": [
+      {
+        "question": "Which constellation is shaped like a W?",
+        "options": ["Cassiopeia", "Orion", "Leo"],
+        "answer": "Cassiopeia"
+      },
+      {
+        "question": "Which constellation contains Betelgeuse?",
+        "options": ["Orion", "Draco", "Ursa Minor"],
+        "answer": "Orion"
+      }
+    ]
+  }
+  
